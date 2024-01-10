@@ -1,0 +1,3 @@
+class Apiprueba < ApplicationRecord
+    
+end    
